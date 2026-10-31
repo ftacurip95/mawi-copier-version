@@ -1,15 +1,17 @@
 {
-  "version": "2.1.2",
-  "installer": "clientes/v2.1.2/MawiCopier-Setup-2.1.2.exe",
-  "sha256": "260b379958d8dee90564bfb660925d058b92fecec96001ee3d726656dc62d98f",
-  "size": 41940636,
+  "version": "2.2.0",
+  "installer": "clientes/v2.2.0/MawiCopier-Setup-2.2.0.exe",
+  "sha256": "f87451598423d9ec3f900a8179e0c5dce118a44ab228d9988dd1136c051e1bb6",
+  "size": 41949232,
   "notes": [
-    "Al actualizarse o cerrarse, Mawï cierra su ventana: ya no queda una ventana vieja abierta",
-    "Si Mawï ya está abierta, el acceso directo trae su ventana al frente en vez de abrir otra",
-    "Herramientas de desarrollo desactivadas: F12 e «Inspeccionar» ya no abren nada",
-    "Recargar en el menú de la izquierda, junto a STOP ALL",
-    "Sin menú de clic derecho del navegador: queda solo en campos de texto y gráficos"
+    "Descarga tu Bitácora en Excel o como informe PDF: solo las operaciones y sus etiquetas, listo para presentar",
+    "Dibuja sobre los gráficos: líneas, rectángulo, Fibonacci, medir y notas; deja tus herramientas favoritas con la estrella",
+    "Sin licencia ves una probadita (el gráfico y «¿Sabías que…?» salen difuminados) y con licencia se abre todo",
+    "Actualización obligatoria: si hay una versión nueva, Mawï pide actualizar antes de seguir",
+    "Los gráficos grandes se cierran con una X",
+    "En «Plan por cuenta» el par va en azul y el riesgo en verde",
+    "Tras actualizar, la ventana ya no guarda páginas ni iconos viejos"
   ],
-  "published": "2026-10-30",
-  "signature": "ahoGhyxLejMeHPYbcmIgMu7b+d2JLMLXJVH5EdJA31v0EqTX4iIMWNQxauljpNFoNHTkNgiFxQ1tQJdEdTzMDQ=="
+  "published": "2026-10-31",
+  "signature": "9BcX8/+x9RRe3ceWtQ/I7VY9p07W6PCngJPKaBDwmvCF20JlGvXlTqZ5wAu4Xsd0XxNwZ3eKacqsitfmRNZ2DQ=="
 }
