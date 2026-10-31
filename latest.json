@@ -1,15 +1,15 @@
 {
   "version": "2.0.0",
   "installer": "clientes/v2.0.0/MawiCopier-Setup-2.0.0.exe",
-  "sha256": "267cec45abf7588f6d04ddeaad1a4f199173654199d5599868077ed0e28fe859",
-  "size": 41894968,
+  "sha256": "edc2d05865a3a2e53009728945400ed7c7c016beac2ef95de4520c8f299f58ef",
+  "size": 41926304,
   "notes": [
-    "Bitácora nueva",
-    "Cuentas centavo",
-    "Horario único"
+    "Bitácora nueva: tu operativa explicada, día por día",
+    "Cuentas centavo en dólares",
+    "Horario único: broker, local u otra zona",
+    "Revisar con velas y etiquetas de gestión",
+    "Actualizaciones automáticas"
   ],
   "published": "2026-10-30",
-  "apk": "clientes/v2.0.0/MawiCopier-Android-2.0.0.apk",
-  "apkSha256": "b1e1e3b8941194a56128604dcde6f1246522cbb30a0169448b06524b44a94dc9",
-  "signature": "rferxpHYqGeH4gFP5xSX/6bD4Ol2xUY3k6+M2RqKnbzugb3Hxl1hueEtn6BUIsNavtRxQSYqlhmj1i68GemgDA=="
+  "signature": "Vc6XMbk598uP2joHEGGkGyS7kY8asqoQLV/RUbIddrQosk/8hM0C11ULtkRku6fiR+g4dT7C7gdF+YjpFGq8AQ=="
 }
