@@ -1,15 +1,15 @@
 {
-  "version": "2.1.1",
-  "installer": "clientes/v2.1.1/MawiCopier-Setup-2.1.1.exe",
-  "sha256": "2c95e42f5f04dc7dfdba5b2bad926d0b7bfdbd1f07d85eeea49f9b21d39ad29a",
-  "size": 41934777,
+  "version": "2.1.2",
+  "installer": "clientes/v2.1.2/MawiCopier-Setup-2.1.2.exe",
+  "sha256": "260b379958d8dee90564bfb660925d058b92fecec96001ee3d726656dc62d98f",
+  "size": 41940636,
   "notes": [
-    "Botón Recargar en el menú de la izquierda (junto a STOP ALL), ahora que Mawï no tiene barra de navegador",
-    "Sin menú de clic derecho del navegador: queda solo donde sirve (campos de texto y gráficos)",
-    "Inicio: espacio entre el buscador y tus cuentas",
-    "La actualización automática ya funciona: «Instalar y reiniciar» instala en silencio y vuelve a abrir Mawï",
-    "Franja de «versión nueva» más limpia"
+    "Al actualizarse o cerrarse, Mawï cierra su ventana: ya no queda una ventana vieja abierta",
+    "Si Mawï ya está abierta, el acceso directo trae su ventana al frente en vez de abrir otra",
+    "Herramientas de desarrollo desactivadas: F12 e «Inspeccionar» ya no abren nada",
+    "Recargar en el menú de la izquierda, junto a STOP ALL",
+    "Sin menú de clic derecho del navegador: queda solo en campos de texto y gráficos"
   ],
   "published": "2026-10-30",
-  "signature": "XvZ7BgyCzUUyCiHzdwYVOzW6+tiO6FVlolZcljybTKUkh6QIJWjFY3nl4K55QXcOYDbkWnYWC06yGm1f1q49Bg=="
+  "signature": "ahoGhyxLejMeHPYbcmIgMu7b+d2JLMLXJVH5EdJA31v0EqTX4iIMWNQxauljpNFoNHTkNgiFxQ1tQJdEdTzMDQ=="
 }
