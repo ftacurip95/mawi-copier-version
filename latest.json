@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
   "installer": "clientes/v2.1.0/MawiCopier-Setup-2.1.0.exe",
-  "sha256": "f6881a9c516557c995837ad4a39c229453cf25f62e1e4d2300258f47a2f476ae",
-  "size": 41931559,
+  "sha256": "80fdc2b15b2d98b347181d68af8c94ef2db06178412eca68651170a079b31bfc",
+  "size": 41932124,
   "notes": [
     "Mawï se abre como una aplicación propia: ventana sin barra de direcciones ni pestañas, con su icono",
     "Configuración inicial guiada: la primera vez te pregunta cómo quieres ver las horas y la apariencia, sin asumir nada por ti",
@@ -16,5 +16,5 @@
     "Aviso «Revisa tu conexión a internet» cuando tu computador se queda sin red"
   ],
   "published": "2026-10-30",
-  "signature": "2JFYOnPNEI09XB5hVCJuz2adEjocZyvpAO/JZGf+NJbCz/hs+qKFmapAlf++TEdboOoJ4xa5lgJwyu5NGq9CAw=="
+  "signature": "AV3LIr18br9dyqxeITcxos9NBR18tKCYDqRN3m1By01+U4pPU75Q0QGlGJEjdbe0Sze/0AhpzJfhhxctt0riDg=="
 }
