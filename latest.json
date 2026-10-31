@@ -1,15 +1,20 @@
 {
-  "version": "2.0.0",
-  "installer": "clientes/v2.0.0/MawiCopier-Setup-2.0.0.exe",
-  "sha256": "edc2d05865a3a2e53009728945400ed7c7c016beac2ef95de4520c8f299f58ef",
-  "size": 41926304,
+  "version": "2.1.0",
+  "installer": "clientes/v2.1.0/MawiCopier-Setup-2.1.0.exe",
+  "sha256": "f6881a9c516557c995837ad4a39c229453cf25f62e1e4d2300258f47a2f476ae",
+  "size": 41931559,
   "notes": [
-    "Bitácora nueva: tu operativa explicada, día por día",
-    "Cuentas centavo en dólares",
-    "Horario único: broker, local u otra zona",
-    "Revisar con velas y etiquetas de gestión",
-    "Actualizaciones automáticas"
+    "Mawï se abre como una aplicación propia: ventana sin barra de direcciones ni pestañas, con su icono",
+    "Configuración inicial guiada: la primera vez te pregunta cómo quieres ver las horas y la apariencia, sin asumir nada por ti",
+    "Actualizaciones automáticas: avisa de versiones nuevas, las descarga sola y se instala con «Instalar y reiniciar»",
+    "Bitácora: resumen en palabras de tu operativa, diario por día y dinero depositado y retirado",
+    "Revisar: cada operación con sus velas, dibujo de entrada y salida, y etiquetas de lo que hiciste (parciales, Stop Loss a break-even)",
+    "Horario único: eliges una sola vez si ves las horas del broker, tu hora local u otra zona",
+    "Cuentas centavo: marcas la casilla y todo se ve y se calcula en dólares",
+    "Sufijo de símbolos (por ejemplo .pc) para encontrar cada par en brokers que le agregan algo",
+    "Cuentas: activas e inactivas, búsqueda por nombre, orden alfabético y botones para abrir o cerrar todos los MetaTrader",
+    "Aviso «Revisa tu conexión a internet» cuando tu computador se queda sin red"
   ],
   "published": "2026-10-30",
-  "signature": "Vc6XMbk598uP2joHEGGkGyS7kY8asqoQLV/RUbIddrQosk/8hM0C11ULtkRku6fiR+g4dT7C7gdF+YjpFGq8AQ=="
+  "signature": "2JFYOnPNEI09XB5hVCJuz2adEjocZyvpAO/JZGf+NJbCz/hs+qKFmapAlf++TEdboOoJ4xa5lgJwyu5NGq9CAw=="
 }
