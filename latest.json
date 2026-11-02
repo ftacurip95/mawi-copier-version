@@ -1,17 +1,13 @@
 {
-  "version": "2.3.0",
-  "installer": "clientes/v2.3.0/MawiCopier-Setup-2.3.0.exe",
-  "sha256": "5fd44ab9b4267f87b4f78d026947312929fde0af9dd9f7390726be39055dbebd",
-  "size": 42086286,
+  "version": "2.3.1",
+  "installer": "clientes/v2.3.1/MawiCopier-Setup-2.3.1.exe",
+  "sha256": "da3838f7f30b2d82ed10730a3cd8842dad7a4eb8d1c17aeb099d68136b3b7d44",
+  "size": 42115437,
   "notes": [
-    "Nuevo y opcional: cuentas CLOUD. En «Añadir cuenta» eliges entre NATIVO (un MetaTrader en tu PC, lo de siempre) y CLOUD (sin abrir MetaTrader)",
-    "Para CLOUD pegas tu propio token del servicio de la nube; la guía te explica cómo sacarlo paso a paso",
-    "El servicio de la nube solo mantiene tu cuenta conectada; Mawï pone el cerebro y la pantalla (una orden en todas tus cuentas, tu riesgo por cuenta, bitácora y Revisar). Su costo es tuyo y Mawï no interviene en ese pago",
-    "Antes de conectar, revisa que tu broker permita manejar la cuenta fuera de MetaTrader",
-    "En Ajustes → Cuentas CLOUD puedes guardar, cambiar o quitar tu token cuando quieras",
-    "Cada cuenta lleva una etiqueta NATIVO o CLOUD; tu Master siempre es NATIVO",
-    "Abajo del menú un chip dice el ambiente (en tu copia de desarrollo dice TEST)"
+    "En Revisar, la etiqueta de cada operación («Stop Loss», «Cerrada a mano»…) ya no se monta sobre el detalle: ahora se lee todo",
+    "Las operaciones que estuvieron abiertas varios días ahora muestran su entrada y su línea en el gráfico de Revisar",
+    "Mawï ahora guarda un registro de los cambios que haces (cuentas, riesgo, pares, horario, saldos ocultos…) para poder ver qué pasó si algo no queda como lo dejaste"
   ],
   "published": "2026-11-02",
-  "signature": "nvHVjBjyWnRo5+60zOrLp0IC0oh1dStBBjGqe/mhL4TueOTchfIztPLQQEc9BPc79IkpUECnPedz8Gy8okW8CA=="
+  "signature": "81z5x41R0ccqGGv/6vFn4lyf5tJ3FcJtbF2dmg5jllwNzLI7rV0kun1y3V6aoA+orKdOLfh1pFxouXccIms7Dg=="
 }
