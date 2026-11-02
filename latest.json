@@ -1,13 +1,11 @@
 {
-  "version": "2.3.1",
-  "installer": "clientes/v2.3.1/MawiCopier-Setup-2.3.1.exe",
-  "sha256": "da3838f7f30b2d82ed10730a3cd8842dad7a4eb8d1c17aeb099d68136b3b7d44",
-  "size": 42115437,
+  "version": "2.3.2",
+  "installer": "clientes/v2.3.2/MawiCopier-Setup-2.3.2.exe",
+  "sha256": "bd831a5a45ae5604a423f81f2efb58b7ff417ad6bb3d178e7367bb6743514544",
+  "size": 42117702,
   "notes": [
-    "En Revisar, la etiqueta de cada operación («Stop Loss», «Cerrada a mano»…) ya no se monta sobre el detalle: ahora se lee todo",
-    "Las operaciones que estuvieron abiertas varios días ahora muestran su entrada y su línea en el gráfico de Revisar",
-    "Mawï ahora guarda un registro de los cambios que haces (cuentas, riesgo, pares, horario, saldos ocultos…) para poder ver qué pasó si algo no queda como lo dejaste"
+    "Cada cuenta ahora se identifica con un icono pequeño, un PC o una nube, en vez de una etiqueta con texto: las listas se ven más limpias (pasa el mouse por el icono para ver su nombre)"
   ],
   "published": "2026-11-02",
-  "signature": "81z5x41R0ccqGGv/6vFn4lyf5tJ3FcJtbF2dmg5jllwNzLI7rV0kun1y3V6aoA+orKdOLfh1pFxouXccIms7Dg=="
+  "signature": "vt3I/j0rQt7DklkzRbBUqsBBC+DvICtLdNMb3lOnEn744ZGGKxM5EeM8atglW2vL8JDbiPrgBhtRUqahRxEKDA=="
 }
