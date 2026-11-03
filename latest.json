@@ -1,14 +1,17 @@
 {
-  "version": "2.3.4",
-  "installer": "clientes/v2.3.4/MawiCopier-Setup-2.3.4.exe",
-  "sha256": "242881c552493f353e6a6bf294b2c2529401e145504684f85cf99a930fee60ad",
-  "size": 42116133,
+  "version": "2.3.5",
+  "installer": "clientes/v2.3.5/MawiCopier-Setup-2.3.5.exe",
+  "sha256": "6c49ac5d5a33dc454182deaf6e631185adf6a434b76314c77b0667ad02a4d06f",
+  "size": 44200702,
   "notes": [
-    "Mawï ahora se adapta al tamaño de la ventana: a media pantalla ya no aparece la barra de desplazamiento de lado en Cuentas",
-    "En ventanas pequeñas y en el celular, la barra de abajo tiene 4 pestañas (Inicio, Operar, Revisar y Cuentas) y un botón «Más» con el resto de las pantallas, como una app",
-    "Las tablas de la Bitácora se mueven dentro de su cuadro y ya no desplazan toda la página",
-    "Si la actualización automática no avanza, ahora puedes descargar el instalador desde Actualizaciones y abrirlo tú: se guarda en tu carpeta Descargas y la pantalla te dice los pasos"
+    "Nueva pantalla Sesiones: te dice cuándo se mueve cada mercado (las Kill Zones de ICT) y qué activos suelen tener más actividad en Asia, Londres y Nueva York",
+    "Las horas de Sesiones salen en tu reloj y se ajustan solas con el cambio de hora de marzo y noviembre; también puedes mirar otra zona sin tocar Ajustes",
+    "Nueva pantalla Instrucciones: el manual de uso dentro de Mawï, con índice y buscador; se lee sin internet y sin necesidad de licencia",
+    "Si abres Mawï mientras ya está abierto (o terminando de abrirse), te lleva a esa misma ventana, sin mensajes de error",
+    "Desde ahora las actualizaciones pueden ser opcionales: si solo traen mejoras, Mawï te avisa y sigues usándolo; solo te pide actualizar cuando de verdad hace falta"
   ],
-  "published": "2026-11-02",
-  "signature": "pTnEuiQihbW7LpsalUEjO7qxlkvmLW4/bBdFp0u0WY671mb7bO+CwpemEemmqru/GNENOgXp8hUCr5qAy2YKCw=="
+  "published": "2026-11-03",
+  "updateType": "optional",
+  "signature": "z/sKh2NSDhB4ikg9O9l4TxNClA+QS2dU3pKdqMuZc56rRpn9unSDXvzF/r1iD147KW0peXl5pXKsvPWKl+jbBA==",
+  "metaSignature": "wbSPPvhNuajwkjx1WpwTNO5kHGF6e1ukgfCji508YP1HjT9ITmx0meNJSrLYWDuHaW5gsHUhISNr0e4u++u4Bw=="
 }
