@@ -1,11 +1,14 @@
 {
-  "version": "2.3.2",
-  "installer": "clientes/v2.3.2/MawiCopier-Setup-2.3.2.exe",
-  "sha256": "bd831a5a45ae5604a423f81f2efb58b7ff417ad6bb3d178e7367bb6743514544",
-  "size": 42117702,
+  "version": "2.3.4",
+  "installer": "clientes/v2.3.4/MawiCopier-Setup-2.3.4.exe",
+  "sha256": "242881c552493f353e6a6bf294b2c2529401e145504684f85cf99a930fee60ad",
+  "size": 42116133,
   "notes": [
-    "Cada cuenta ahora se identifica con un icono pequeño, un PC o una nube, en vez de una etiqueta con texto: las listas se ven más limpias (pasa el mouse por el icono para ver su nombre)"
+    "Mawï ahora se adapta al tamaño de la ventana: a media pantalla ya no aparece la barra de desplazamiento de lado en Cuentas",
+    "En ventanas pequeñas y en el celular, la barra de abajo tiene 4 pestañas (Inicio, Operar, Revisar y Cuentas) y un botón «Más» con el resto de las pantallas, como una app",
+    "Las tablas de la Bitácora se mueven dentro de su cuadro y ya no desplazan toda la página",
+    "Si la actualización automática no avanza, ahora puedes descargar el instalador desde Actualizaciones y abrirlo tú: se guarda en tu carpeta Descargas y la pantalla te dice los pasos"
   ],
   "published": "2026-11-02",
-  "signature": "vt3I/j0rQt7DklkzRbBUqsBBC+DvICtLdNMb3lOnEn744ZGGKxM5EeM8atglW2vL8JDbiPrgBhtRUqahRxEKDA=="
+  "signature": "pTnEuiQihbW7LpsalUEjO7qxlkvmLW4/bBdFp0u0WY671mb7bO+CwpemEemmqru/GNENOgXp8hUCr5qAy2YKCw=="
 }
