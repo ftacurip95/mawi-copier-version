@@ -1,17 +1,16 @@
 {
-  "version": "2.3.5",
-  "installer": "clientes/v2.3.5/MawiCopier-Setup-2.3.5.exe",
-  "sha256": "6c49ac5d5a33dc454182deaf6e631185adf6a434b76314c77b0667ad02a4d06f",
-  "size": 44200702,
+  "version": "2.3.6",
+  "installer": "clientes/v2.3.6/MawiCopier-Setup-2.3.6.exe",
+  "sha256": "01c68e38998d1ff042f250b8a9245436fda6daf2d2fc83fa31c96ea79f77df83",
+  "size": 44239089,
   "notes": [
-    "Nueva pantalla Sesiones: te dice cuándo se mueve cada mercado (las Kill Zones de ICT) y qué activos suelen tener más actividad en Asia, Londres y Nueva York",
-    "Las horas de Sesiones salen en tu reloj y se ajustan solas con el cambio de hora de marzo y noviembre; también puedes mirar otra zona sin tocar Ajustes",
-    "Nueva pantalla Instrucciones: el manual de uso dentro de Mawï, con índice y buscador; se lee sin internet y sin necesidad de licencia",
-    "Si abres Mawï mientras ya está abierto (o terminando de abrirse), te lleva a esa misma ventana, sin mensajes de error",
-    "Desde ahora las actualizaciones pueden ser opcionales: si solo traen mejoras, Mawï te avisa y sigues usándolo; solo te pide actualizar cuando de verdad hace falta"
+    "Nueva regla para medir en el gráfico de Operar: pulsa el botón de la regla (debajo del lápiz) y arrastra de un punto a otro; te dice la distancia en puntos (los mismos del Stop Loss), el precio, el porcentaje, las velas y el tiempo, en verde si subió y en rojo si bajó",
+    "El gráfico de Operar ahora muestra todas las velas: antes se quedaba solo con las de la semana (o con las que iban llegando) y dejaba vacío el resto; ahora vuelve a pedir el historial hasta completarlo",
+    "Las etiquetas del Stop Loss y del Take Profit ya no se repiten cuando varias cuentas tienen el mismo precio",
+    "Operaciones activas aprovecha mejor la pantalla: con una sola operación ocupa todo el ancho y trae títulos de columna; en ventanas pequeñas y en el celular, cada cuenta se muestra en dos líneas y ya no se corta nada"
   ],
   "published": "2026-11-03",
   "updateType": "optional",
-  "signature": "z/sKh2NSDhB4ikg9O9l4TxNClA+QS2dU3pKdqMuZc56rRpn9unSDXvzF/r1iD147KW0peXl5pXKsvPWKl+jbBA==",
-  "metaSignature": "wbSPPvhNuajwkjx1WpwTNO5kHGF6e1ukgfCji508YP1HjT9ITmx0meNJSrLYWDuHaW5gsHUhISNr0e4u++u4Bw=="
+  "signature": "UD5DCuPftBX6uQkljPD8ApZ6C+3rbTOS0NVdLU5ZVsv2waWtInmqltQelj2yBLEyJLgNmhDM58cv14F553fVBQ==",
+  "metaSignature": "64O6DMhHE/wN2XDZvph3u3xjv903retpoR6YmNG1pUdhWoNuJ1Cvg0Oxm7+HsgmVwstsAXu9FnlwVYSAaMtVDw=="
 }
