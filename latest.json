@@ -1,15 +1,13 @@
 {
-  "version": "2.3.7",
-  "installer": "clientes/v2.3.7/MawiCopier-Setup-2.3.7.exe",
-  "sha256": "2fe78f0739a1c9486ebcf33200c1fda5ec28736e2a924d9a9f71849b841d276a",
-  "size": 44264148,
+  "version": "2.3.8",
+  "installer": "clientes/v2.3.8/MawiCopier-Setup-2.3.8.exe",
+  "sha256": "d29c0914b81a3517d6c9ab7b8cf59d8ffaa0ab8946f77e8dac8eca04a332c1fb",
+  "size": 44287770,
   "notes": [
-    "Operaciones activas ahora habla en % y en R: con el botón R ves el resultado en veces el riesgo con el que abriste la operación (aunque después hayas movido el Stop Loss) y el R:R planeado; las ganancias en dinero quedan ocultas hasta que enciendes el botón $",
-    "Cada operación activa se puede minimizar con el botón −, y Minimizar todas deja solo el resultado y Gestionar para no tener los montos a la vista",
-    "Mawï recuerda lo que elegiste ver y cómo dejaste las operaciones"
+    "En Operaciones activas, el R:R ahora muestra también cómo va con el Stop Loss donde está hoy: si lo acercas o lo pones en break-even, verás por ejemplo «R:R 1 : 3.0 · ahora 1 : 7.5» o «ahora sin riesgo», sin perder el R:R con el que abriste la operación"
   ],
   "published": "2026-11-04",
   "updateType": "optional",
-  "signature": "E68NeHs2yCJzTXrpsGP+CGdYeFP56HsY903hs0iVwqRI9cjUZZAuv+4vFri/lQXorfdFySU+S7fWYo85Loo3Cg==",
-  "metaSignature": "yIefukhjsWe6a7rItUgsi7YEhivIWVD2y0QvC3N/ZLZ5/SVraoFigXEx+oyFXauZiXJveAkFkIA231DqW1zxDA=="
+  "signature": "PFIXVQy8H4MKF5haP6KTRMjmRbgJ02TsAQHsuGpvsWblseErQcNeWGDB3KwiH1cOhPuVEPvVB9K8Yvkekh9YAQ==",
+  "metaSignature": "6HLI1TuzxSDWB2ngxf4YJt/WkurN/MemwJ1udZphv7ldFJIYlHrlOxexqSjQTG3TrOzipcS7X5aPVBwYh6geBg=="
 }
