@@ -1,13 +1,15 @@
 {
-  "version": "2.3.8",
-  "installer": "clientes/v2.3.8/MawiCopier-Setup-2.3.8.exe",
-  "sha256": "d29c0914b81a3517d6c9ab7b8cf59d8ffaa0ab8946f77e8dac8eca04a332c1fb",
-  "size": 44287770,
+  "version": "2.3.9",
+  "installer": "clientes/v2.3.9/MawiCopier-Setup-2.3.9.exe",
+  "sha256": "92d4842f7803288fec64e15e37c810b2bbbfb65f7b006b10afdf4ee94a71d74f",
+  "size": 44295992,
   "notes": [
-    "En Operaciones activas, el R:R ahora muestra también cómo va con el Stop Loss donde está hoy: si lo acercas o lo pones en break-even, verás por ejemplo «R:R 1 : 3.0 · ahora 1 : 7.5» o «ahora sin riesgo», sin perder el R:R con el que abriste la operación"
+    "La Bitácora tiene más periodos: además de 24 h, 7 días, 30 días, 90 días y 1 año, ahora puedes ver hoy, ayer, esta semana, la semana pasada, este mes, el mes pasado, este año o un rango de fechas que elijas",
+    "Cada operación de la Bitácora muestra su resultado en R (veces el riesgo con el que la abriste, medido con el Stop Loss inicial aunque después lo hayas movido) y el R:R que planeaste; hay una tarjeta nueva con tu expectativa en R y un botón Ver R para ocultarlo",
+    "El Excel de la bitácora trae las columnas R:R planeado y R"
   ],
-  "published": "2026-11-04",
+  "published": "2026-11-05",
   "updateType": "optional",
-  "signature": "PFIXVQy8H4MKF5haP6KTRMjmRbgJ02TsAQHsuGpvsWblseErQcNeWGDB3KwiH1cOhPuVEPvVB9K8Yvkekh9YAQ==",
-  "metaSignature": "6HLI1TuzxSDWB2ngxf4YJt/WkurN/MemwJ1udZphv7ldFJIYlHrlOxexqSjQTG3TrOzipcS7X5aPVBwYh6geBg=="
+  "signature": "FYTEzB4cijjdBv5+LciNUxHzWqIDqHjarhkT2FMnXd0ENM8vi3tLAPiCxeVgvG6uYJ6o+/e06WfEuif4QMLlCA==",
+  "metaSignature": "jmKfjwgNAKh/oyNnF6+eYUvHViUZoids+TqQOu9GnoOU4m2EeOl6EuZtohzAsaM42YxdNkhl++vtqZPHEyoiDQ=="
 }
