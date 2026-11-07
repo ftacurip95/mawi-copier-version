@@ -1,15 +1,22 @@
 {
-  "version": "2.3.9",
-  "installer": "clientes/v2.3.9/MawiCopier-Setup-2.3.9.exe",
-  "sha256": "92d4842f7803288fec64e15e37c810b2bbbfb65f7b006b10afdf4ee94a71d74f",
-  "size": 44295992,
+  "version": "3.0.0",
+  "installer": "clientes/v3.0.0/MawiHub-Setup-3.0.0.exe",
+  "sha256": "2a3427efe0583faa9e7b8aed596d2e2dc7dc83016131a91f183aa3c35ce8a5bc",
+  "size": 44663289,
   "notes": [
-    "La Bitácora tiene más periodos: además de 24 h, 7 días, 30 días, 90 días y 1 año, ahora puedes ver hoy, ayer, esta semana, la semana pasada, este mes, el mes pasado, este año o un rango de fechas que elijas",
-    "Cada operación de la Bitácora muestra su resultado en R (veces el riesgo con el que la abriste, medido con el Stop Loss inicial aunque después lo hayas movido) y el R:R que planeaste; hay una tarjeta nueva con tu expectativa en R y un botón Ver R para ocultarlo",
-    "El Excel de la bitácora trae las columnas R:R planeado y R"
+    "Modo Gestión: agrupa tus cuentas en grupos que operan por turnos; cuando una operación de un grupo cierra en Stop Loss, el turno pasa al siguiente",
+    "Mawï ahora habla de réplicas: tu orden se replica a todas tus cuentas y ves con claridad cuáles operan y por qué otras no",
+    "Bitácora renovada: mide tu operativa en R (veces tu riesgo), separa lo que te va bien de lo que puedes mejorar, y archiva las cuentas y grupos que ya no usas",
+    "Operar más simple y claro: el gráfico muestra el Stop Loss de compra y de venta a la vez y un resumen del día del par (rango, quién empuja y actividad)",
+    "Sesiones al día: las franjas se leen en tu hora, siguen solas el cambio de hora de Nueva York y no inventan sesiones en el fin de semana",
+    "Mawï Móvil: mira y opera desde tu celular; Android con la app nueva y iPhone desde Safari, con los pasos explicados",
+    "Una campanita reúne los avisos en lugar de barras en medio de la pantalla, y una vez al mes un recordatorio amable para guardar un respaldo de tu Bitácora",
+    "Logo e iconos nuevos de Mawï Hub"
   ],
-  "published": "2026-11-05",
-  "updateType": "optional",
-  "signature": "FYTEzB4cijjdBv5+LciNUxHzWqIDqHjarhkT2FMnXd0ENM8vi3tLAPiCxeVgvG6uYJ6o+/e06WfEuif4QMLlCA==",
-  "metaSignature": "jmKfjwgNAKh/oyNnF6+eYUvHViUZoids+TqQOu9GnoOU4m2EeOl6EuZtohzAsaM42YxdNkhl++vtqZPHEyoiDQ=="
+  "published": "2026-11-06",
+  "apk": "clientes/v3.0.0/MawiCopier-Android-3.0.0.apk",
+  "apkSha256": "6efb81d19df516bbb0f33b82a2b8f4b19c3b062fc15f563ab9ee5d098123d22b",
+  "updateType": "required",
+  "signature": "pWwqQFYfFdgy+/er5Ff06/vKeKyZox64iaLUxUSdKsHRBn5l1yx3Jtwu4IrjabEKzueKYhxKXW9Dkt6DmhsOAw==",
+  "metaSignature": "rLLLGzRmRuI03pcsnQmJWO2Ds2P5BmpsHNp8KExblJVrDYfLINp09x1hvIoOBimuL3b5jH7ZZQvYrEOLz/kyCg=="
 }
