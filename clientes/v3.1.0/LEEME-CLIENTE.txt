@@ -1,0 +1,72 @@
+﻿MAWÏ COPIER - INSTALACIÓN
+=========================
+
+1. Haga doble clic en  MawiHub-Setup-X.X.X.exe  (X.X.X es la versión).
+
+   Si Windows muestra "Windows protegió su PC":
+     -> pulse "Más información"  ->  "Ejecutar de todas formas".
+   Es normal en programas nuevos; el instalador es el que le entregó Mawï Dev.
+
+2. Siga el asistente (Siguiente, Siguiente, Instalar). Marque las casillas que le sirvan:
+     [x] Acceso directo en el Escritorio
+     [x] Permitir abrir Mawï Hub desde mi celular   (solo en su red Wi-Fi de casa u oficina)
+     [ ] Iniciar al encender el PC
+
+3. Al terminar se abre Mawï Hub en su navegador. Verá un icono de Mawï junto al reloj
+   de Windows: con clic derecho puede "Abrir" o "Cerrar" el programa.
+
+4. Para activar su licencia: menú "Licencia" -> copie su Machine ID y envíelo a Mawï Dev.
+   Le devolverán un archivo o código de licencia para pegar en esa misma pantalla.
+
+
+INSTRUCCIONES
+-------------
+El manual de uso está dentro de Mawï Hub: menú "Instrucciones" (índice y buscador). Se lee ahí mismo,
+sin internet y sin necesidad de licencia.
+
+
+ACTUALIZAR A UNA VERSIÓN NUEVA
+------------------------------
+Ejecute el instalador nuevo. No necesita desinstalar nada. Si Mawï Hub está abierto, el
+instalador le preguntará si desea cerrarlo para continuar (elija Sí): la versión anterior se
+cierra sola y se reemplaza. Sus clientes, pares y licencia se conservan.
+(Sus ventanas de MetaTrader no se cierran.)
+
+¿Qué versión tengo?  Debajo del menú de la izquierda dice "Mawï Hub · Versión X.X.X".
+
+
+MAWÏ MÓVIL (su celular como otra pantalla de Mawï)
+--------------------------------------------------
+Mawï sigue trabajando en su PC; el celular solo le muestra lo mismo para que mire sus cuentas y opere desde cualquier
+rincón de su casa u oficina. Todo se queda en su PC: sus cuentas y sus órdenes no pasan por ningún servidor de Mawï.
+Necesita: el PC encendido con Mawï Hub abierto, el celular en el MISMO Wi-Fi y un PIN de 6 números que elige usted.
+
+En el PC, menú "Mawï Móvil": cree el PIN y active el acceso (pasos 1 y 2).
+
+ANDROID (app, opcional, Android 7 o superior): en la misma pantalla, tarjeta "¿Prefieres la app de Android?":
+  1. Con el celular, escanee el código de esa tarjeta (o pulse "Descargar en este PC" y páselo por cable o WhatsApp).
+  2. Ábralo desde Descargas. Android pedirá permitir "instalar apps de origen desconocido" esa vez: acéptelo.
+     Si sale un aviso de Play Protect, elija "Instalar de todos modos".
+  3. Con el celular en el mismo Wi-Fi, abra "Mawï Hub", pulse "Escanear código QR del PC" y apunte al código del paso 3
+     de la pantalla "Mawï Móvil". Le pide el PIN y listo. (Si no puede escanear, escriba la dirección de su PC y pulse Conectar.)
+  Si el PC no está disponible, la app lo dice y reintenta sola. Para actualizar, instale el APK nuevo encima.
+
+IPHONE: no hay nada que instalar. Con el iPhone en el mismo Wi-Fi, abra la Cámara y apunte al código de la tarjeta
+"¿Usas iPhone?": se abre en Safari. Escriba su PIN. Para tenerlo como app: Compartir -> "Añadir a pantalla de inicio".
+
+¿No marcó la casilla del celular al instalar?  Puede activarlo después, sin perder nada:
+  - La casilla solo abre el puerto 8000 en el Firewall de Windows (red privada). El PIN y el
+    interruptor se ponen siempre desde "Mawï Móvil", cuando quiera.
+  - Si no la marcó, Mawï funciona igual en su PC, pero el celular no podrá entrar y en "Mawï Móvil"
+    verá el aviso "Windows aún bloquea el puerto 8000".
+  - Para habilitarlo: vuelva a ejecutar el instalador y marque la casilla del celular
+    (sus clientes, pares y licencia se conservan). O abra PowerShell como administrador y pegue:
+      netsh advfirewall firewall add rule name="Mawi Hub (celular)" dir=in action=allow protocol=TCP localport=8000 profile=private program="C:\Program Files\Mawi Hub\MawiCopier.exe" enable=yes
+  - Después: en "Mawï Móvil" cree el PIN y active el acceso; el celular debe estar en el mismo Wi-Fi y
+    Windows debe tener esa red como "Privada".
+
+
+SOPORTE
+-------
+Mawï Dev  -  WhatsApp +593 99 413 3622  -  jftrader.31@gmail.com
+(En el menú: "Ayuda y soporte" prepara el mensaje con su versión y su Machine ID.)

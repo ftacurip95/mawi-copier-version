@@ -1,22 +1,19 @@
 {
-  "version": "3.0.0",
-  "installer": "clientes/v3.0.0/MawiHub-Setup-3.0.0.exe",
-  "sha256": "2a3427efe0583faa9e7b8aed596d2e2dc7dc83016131a91f183aa3c35ce8a5bc",
-  "size": 44663289,
+  "version": "3.1.0",
+  "installer": "clientes/v3.1.0/MawiHub-Setup-3.1.0.exe",
+  "sha256": "cd796f06c2daa9d77e2c482cfb2681e2a705f9269130260b87bc8f9d7b73c2e9",
+  "size": 44772351,
   "notes": [
-    "Modo Gestión: agrupa tus cuentas en grupos que operan por turnos; cuando una operación de un grupo cierra en Stop Loss, el turno pasa al siguiente",
-    "Mawï ahora habla de réplicas: tu orden se replica a todas tus cuentas y ves con claridad cuáles operan y por qué otras no",
-    "Bitácora renovada: mide tu operativa en R (veces tu riesgo), separa lo que te va bien de lo que puedes mejorar, y archiva las cuentas y grupos que ya no usas",
-    "Operar más simple y claro: el gráfico muestra el Stop Loss de compra y de venta a la vez y un resumen del día del par (rango, quién empuja y actividad)",
-    "Sesiones al día: las franjas se leen en tu hora, siguen solas el cambio de hora de Nueva York y no inventan sesiones en el fin de semana",
-    "Mawï Móvil: mira y opera desde tu celular; Android con la app nueva y iPhone desde Safari, con los pasos explicados",
-    "Una campanita reúne los avisos en lugar de barras en medio de la pantalla, y una vez al mes un recordatorio amable para guardar un respaldo de tu Bitácora",
-    "Logo e iconos nuevos de Mawï Hub"
+    "Operar más claro: el gráfico muestra el plan del lado que miras (zona de pérdida y de ganancia) y puedes arrastrar el Stop Loss y el Take Profit directamente sobre el gráfico",
+    "Ves en el gráfico las operaciones que ya cerraste, con su resultado (Stop Loss, Take Profit o cierre)",
+    "Después de enviar una orden, el Stop Loss y el Take Profit se limpian solos para que la siguiente empiece limpia; lo puedes apagar en Ajustes",
+    "Cada par recuerda su propio Stop Loss y Take Profit: ya no pasa el valor de un par a otro",
+    "Si ninguna cuenta puede operar, Mawï te dice el motivo real (por ejemplo, el riesgo no alcanza el lote mínimo del broker) y cómo arreglarlo",
+    "El título de cada pantalla queda fijo arriba con lo que más usas a la mano, sin saltos al volver al inicio",
+    "La app ya no se agranda ni se achica por accidente con Ctrl y la rueda del mouse"
   ],
-  "published": "2026-11-06",
-  "apk": "clientes/v3.0.0/MawiCopier-Android-3.0.0.apk",
-  "apkSha256": "6efb81d19df516bbb0f33b82a2b8f4b19c3b062fc15f563ab9ee5d098123d22b",
-  "updateType": "required",
-  "signature": "pWwqQFYfFdgy+/er5Ff06/vKeKyZox64iaLUxUSdKsHRBn5l1yx3Jtwu4IrjabEKzueKYhxKXW9Dkt6DmhsOAw==",
-  "metaSignature": "rLLLGzRmRuI03pcsnQmJWO2Ds2P5BmpsHNp8KExblJVrDYfLINp09x1hvIoOBimuL3b5jH7ZZQvYrEOLz/kyCg=="
+  "published": "2026-11-12",
+  "updateType": "optional",
+  "signature": "4rfZL3w3ckrZ326W2UG627aui8hs67ArU/qMgHf1D8ju/gPathZJQqy44TWkZKeHWKJchlpBRc57NpbN9/wMDQ==",
+  "metaSignature": "k3tpF2icWBk2LS+CESdCcxzKZfeT0OO3T94edx1fxpFmi6LLCUVO69r1FFSoxyZmChF5ODpgmpUVRkI8clBuAw=="
 }
