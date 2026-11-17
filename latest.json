@@ -1,17 +1,15 @@
 {
-  "version": "3.3.0",
-  "installer": "clientes/v3.3.0/MawiHub-Setup-3.3.0.exe",
-  "sha256": "3252b3234430837d1e2e59fd95e5ed50a94f3b2ae586f56b773b033b5ca127b2",
-  "size": 44808528,
+  "version": "3.3.1",
+  "installer": "clientes/v3.3.1/MawiHub-Setup-3.3.1.exe",
+  "sha256": "42ce68af5aba54b5b62ad0ae987fa8947dbaa751d74e75cc024573e3cea6d3c0",
+  "size": 44809199,
   "notes": [
-    "Operar mucho más simple: a la vista solo lo esencial (el par, el Stop Loss, el Take Profit, Venta o Compra y Ejecutar); lo demás (cómo se calcula el lote, unidad en precio o puntos, spread, riesgo y atajos de puntos) está en «Opciones», que recuerda cómo lo dejaste y escribe con etiquetas lo que no es lo usual para que nada quede escondido",
-    "Menú más corto: cinco pantallas a la vista (Inicio, Operar, Laboratorio, Bitácora y Cuentas) y el resto en «Más»",
-    "Diseño más limpio y plano: menos cajas y bordes, letra más legible, la franja del día más tranquila (el resto se abre con «Más») y la tarjeta de Operaciones activas sin adornos",
-    "Mejor para quien usa teclado o lector de pantalla: los campos clave tienen nombre y las operaciones de Laboratorio se abren con Enter o Espacio",
-    "Nueva animación de bienvenida: más corta (menos de 3 segundos), más fluida y con el logo de Mawï Hub; se puede omitir con un clic o con Escape"
+    "Textos más claros: se arreglaron espacios y avisos mal alineados (el aviso del permiso de administrador al actualizar, las notas bajo el Stop Loss y el Take Profit, y varios avisos de Ajustes y Gestión)",
+    "En el celular, la tabla «Por franja del día» de la Bitácora se ve entera y varios botones son más fáciles de tocar con el dedo"
   ],
   "published": "2026-11-16",
-  "updateType": "required",
-  "signature": "viLpCnZTXNlO1yZk4/GkaauoW3U6wkKSb7zPfYV2ZGzj7PG96dUxgbkAVjV5qH2GYC1ZpQJ0ekVq3W5dXthkBQ==",
-  "metaSignature": "9CVU04DJRKpQLmOcK5VnU2okFht90PL99RW+x3EUa/G5OGh3QUTBVVcHCh4GRgIFXZQh1XajR0sygP3CAJAYDw=="
+  "updateType": "optional",
+  "minVersion": "3.3.0",
+  "signature": "OAa1Fwp62GpTaQMcrl/wd6avakHYtd7BFoAZp1bvoMsBNMChIhs4wfdBdPH5amPv/VbJ8OPd0p3ipmK/On+kBg==",
+  "metaSignature": "FhZq1sWcDKXdiI8VUUhc+rzvmF88GqTlAJl7jNQL7BqvqD7iW4r97s96oLsRxgdTNrbmDKGqRBDQD4xKjX4oCA=="
 }
