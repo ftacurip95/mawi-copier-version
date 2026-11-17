@@ -1,8 +1,8 @@
 {
   "version": "3.3.0",
   "installer": "clientes/v3.3.0/MawiHub-Setup-3.3.0.exe",
-  "sha256": "5bb320dcdeec17b6a46b03ffeccb657375449a06aea6a9b2a0a594b53a8044fc",
-  "size": 44886362,
+  "sha256": "3252b3234430837d1e2e59fd95e5ed50a94f3b2ae586f56b773b033b5ca127b2",
+  "size": 44808528,
   "notes": [
     "Operar mucho más simple: a la vista solo lo esencial (el par, el Stop Loss, el Take Profit, Venta o Compra y Ejecutar); lo demás (cómo se calcula el lote, unidad en precio o puntos, spread, riesgo y atajos de puntos) está en «Opciones», que recuerda cómo lo dejaste y escribe con etiquetas lo que no es lo usual para que nada quede escondido",
     "Menú más corto: cinco pantallas a la vista (Inicio, Operar, Laboratorio, Bitácora y Cuentas) y el resto en «Más»",
@@ -12,6 +12,6 @@
   ],
   "published": "2026-11-16",
   "updateType": "required",
-  "signature": "eaQ43ip380ePyaCW+/+iyVSiHHp0IbqDzsGBM78t3OTjDMByD2IxkH9yP/kQcCCQXc7PwWyI4lo9iuo+NxvsBQ==",
+  "signature": "viLpCnZTXNlO1yZk4/GkaauoW3U6wkKSb7zPfYV2ZGzj7PG96dUxgbkAVjV5qH2GYC1ZpQJ0ekVq3W5dXthkBQ==",
   "metaSignature": "9CVU04DJRKpQLmOcK5VnU2okFht90PL99RW+x3EUa/G5OGh3QUTBVVcHCh4GRgIFXZQh1XajR0sygP3CAJAYDw=="
 }
